@@ -67,7 +67,7 @@ In the first part of the course we will develop the theoretical underpinnings of
 * describe the states of a sytem
 * develop techniques for separating states from inputs and observed from hidden information
  
-### Filteringtheir 
+### Filtering
 This section of the course will use the theoretical underpinnings to devleop the notion of a filter and derive the Kalman filter, a commonly used filtering technique. Content will include:
 * refining information
 * state-space representation of systems
@@ -126,7 +126,7 @@ X_ = A_step * X_ + B * u * dt;
 ```
 While this is not an adequate comment:
 ```
-% update the state vector
+% propagate the state vector forward
 A_step = eye(2) + A * dt;
 X_ = A_step * X_ + B * u * dt;
 ```
@@ -149,7 +149,7 @@ x = x_sample * R_earth;
 y = y_sample * R_earth;
 z = z_sample * R_earth;
 ```
-Note that you are still responsible for your solution being correct and working. Before I put this example in I did some basic checks (plotting the output and checking the statistics against a uniform lat-lon sample to make sure they were different). 
+Note that you are still responsible for your solution being correct and working. For example -- before I put this example in I did some basic checks (plotting the output and checking the statistics against a uniform lat-lon sample to make sure they were different). 
 
 ### Project
 You will also complete a self-identified project requiring application of the concepts and practice of state estimation. You are encouraged to draw the project content from your research, personal, or professional interests. You should discuss a project topic with me and we will agree on an appropriate scope and deliverable. Projects may work with real or simulated systems but require:
