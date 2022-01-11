@@ -206,7 +206,7 @@ Course content will be identical between graduate and undergraduate sections. St
 | W, 2021-02-16 | | Priors |
 | M, 2021-02-21 | 4 | Sequential Estimation |
 | W, 2021-02-23 | | State Space Representation |
-| M, 2021-02-28 | 5 | [Activity 1](/activities/1) |
+| M, 2021-02-28 | 5 | [Activity 1]({{ site.baseurl }}{% link _pages/activities/1.md %}) |
 | W, 2021-03-02 | | Transforming Distributions |
 | M, 2021-03-07 | 6 | Observability |
 | W, 2021-03-09 | | Kalman Filter |
@@ -214,15 +214,15 @@ Course content will be identical between graduate and undergraduate sections. St
 | M, 2021-03-21 | 7 | Review, Activity 2 Introduction |
 | W, 2021-03-23 | | Exam 2 |
 | M, 2021-03-28 | 8 | Consistency and Initialization of KF, Parameter Estimation |
-| W, 2021-03-30 | | [Activity 2](/activities/2) (last day of class before drop day) |
+| W, 2021-03-30 | | [Activity 2]({{ site.baseurl }}{% link _pages/activities/2.md %}) (last day of class before drop day) |
 | M, 2021-04-04 | 9 | Non-gaussian noise, Steady-state filter, information filter |
 | W, 2021-04-06 | | Extended Kalman filter, Activity 3 introduction, project introduction |
 | M, 2021-04-11 | 10 | Unscented Kalman filter |
-| W, 2021-04-13 | | [Activity 3](/activities/3) |
+| W, 2021-04-13 | | [Activity 3]({{ site.baseurl }}{% link _pages/activities/3.md %}) |
 | M, 2021-04-18 | 11 | Particle filter, Activity 4 introduction, project defined |
 | W, 2021-04-20 | | Importance sampling, weighting |
 | M, 2021-04-25 | 12 | Ensemble Kalman filter |
-| W, 2021-04-27 | | [Activity 4](/activities/4) |
+| W, 2021-04-27 | | [Activity 4]({{ site.baseurl }}{% link _pages/activities/4.md %}) |
 | M, 2021-05-02 | 13 | Gaussian process regression, density estimation |
 | W, 2021-05-04 | | reserved |
 
