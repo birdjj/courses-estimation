@@ -115,11 +115,12 @@ Hands-on activities will require you to apply course content to several robotics
 
 Reports should cover no more than three total pages including figures and equations but excluding references (aim for no more than 1.5--2 pages of written content). Any resources used in designing or implementing solutions to the activity problems should be documented. 
 
-You should also turn in commented source code. Comments should not describe what a line of code does, but rather why you are doing something. For example, this is an example of good comments:
+You should also turn in commented source code. Comments should not describe what a line of code does, but rather why you are doing something. For example, this is an example of a good comment:
 ```
-% I make a forward euler approximation in the state dynamics, so that the state
-% transition can be approximated by the state derivative matrix multiplied by 
-% the time step size plus the identity matrix
+% I make a forward euler approximation in the state dynamics. This allows me to
+% use the continuous-time dynamics matrix I've derived to propagate the discrete
+% time dynamics. This will break down if my time step sizes get too large or if
+% the dynamics are very fast.
 A_step = eye(2) + A * dt;
 X_ = A_step * X_ + B * u * dt;
 ```
