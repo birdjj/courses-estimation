@@ -12,6 +12,7 @@ Number: MECH 4395 / 5395\
 CRN: 22990 / 26376\
 Term: Spring 2022\
 Instructor: John Bird\
+Office: Engineering Building A-115\
 Instructor email: jjbird@utep.edu\
 Instructor phone: 915.747.8406
 
