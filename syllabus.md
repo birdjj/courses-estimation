@@ -39,7 +39,10 @@ This course has no formal prerequisites but a basic knowledge of MATLAB programm
 Class will meet from 1:30 to 2:50 pm Monday and Wednesday in room 208 in the Liberal Arts building.
 
 ### Course Communication
-Office Hours: to be determined or by appointment
+Office Hours:
+Mondays in-person 10:30--12:00
+Wednesdays virtually 15:00--16:30
+or by appointment
 
 Email is the best way to contact me. I will attempt to respond within 24-48 hours, please include the course number in your email subject.
 
@@ -199,7 +202,7 @@ Course content will be identical between graduate and undergraduate sections. St
 |-------|--------|--------|--------| 
 | W, 2022-01-19 | | Introduction | |
 | M, 2022-01-24 | | Probability Distributions | Barfoot 2.1<br> Bishop 1.2.1, 1.2.2 |
-| W, 2022-01-26 | | Probabilistic Graphical Models | Bishop 8.1, 8.2 |
+| W, 2022-01-26 | | Probabilistic Graphical Models | Bishop 8.1--8.3 |
 | M, 2022-01-31 | 1 | Expectation and Covariance |
 | W, 2022-02-02 | | Combining Measurements | 
 | M, 2022-02-07 | 2 | Linear Least Squares |
