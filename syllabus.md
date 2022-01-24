@@ -39,10 +39,10 @@ This course has no formal prerequisites but a basic knowledge of MATLAB programm
 Class will meet from 1:30 to 2:50 pm Monday and Wednesday in room 208 in the Liberal Arts building.
 
 ### Course Communication
-Office Hours:
-Mondays in-person 10:30--12:00
-Wednesdays virtually 15:00--16:30
-or by appointment
+Office Hours:\
+Mondays in-person 10:30--12:00\
+Wednesdays virtually 15:00--16:30\
+or by appointment\
 
 Email is the best way to contact me. I will attempt to respond within 24-48 hours, please include the course number in your email subject.
 
