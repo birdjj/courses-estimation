@@ -14,7 +14,10 @@ Term: Spring 2022\
 Instructor: John Bird\
 Office: Engineering Building A-115\
 Instructor email: jjbird@utep.edu\
-Instructor phone: 915.747.8406
+Instructor phone: 915.747.8406\
+Office Hours:\
+Mondays virtually 10:30--12:00\
+Wednesdays in-person 15:00--16:30
 
 This course is cross-listed as both an undergraduate (4395 / 22990) and graduate (5395 / 26376) course. Please ensure that you are enrolled in the correct section.
 
@@ -40,8 +43,8 @@ Class will meet from 1:30 to 2:50 pm Monday and Wednesday in room 208 in the Lib
 
 ### Course Communication
 Office Hours:\
-Mondays in-person 10:30--12:00\
-Wednesdays virtually 15:00--16:30\
+Mondays virtually 10:30--12:00\
+Wednesdays in-person 15:00--16:30\
 or by appointment
 
 Email is the best way to contact me. I will attempt to respond within 24-48 hours, please include the course number in your email subject.
