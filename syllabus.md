@@ -10,11 +10,14 @@ permalink: /syllabus/
 Title: Special Topics -- State Estimation for Robotics and Autonomous Systems\
 Number: MECH 4395\
 CRN: 15275\
-Term: Spring 2022\
+Term: Fall 2022\
 Instructor: John Bird\
 Office: Engineering Building A-115\
 Instructor email: jjbird@utep.edu\
-Instructor phone: 915.747.8406
+Instructor phone: 915.747.8406\
+Office Hours:\
+Mondays virtually 10:30--12:00\
+Wednesdays in-person 15:00--16:30
 
 ### Course Description
 State estimation is concerned with determining the internal states of a system by combining sensor measurements. Estimation is fundamental to many mobile robotics, aerospace, and process control systems. In this course we will study basic probability and system theory underlying estimation, techniques to determine if a state can be estimated from available observations, and state estimation algorithms for linear and nonlinear systems.
@@ -38,7 +41,10 @@ A good refresher on matlab would be to run through [http://shiplab.hials.org/scr
 Class will meet from 1:30 to 2:50 pm Monday and Wednesday in room 1.0204 in the Chemistry and Computer Science Building.
 
 ### Course Communication
-Office Hours: to be determined or by appointment
+Office Hours:\
+Mondays virtually 10:30--12:00\
+Wednesdays in-person 15:00--16:30\
+or by appointment
 
 Email is the best way to contact me. I will attempt to respond within 24-48 hours, please include the course title or number in your email subject.
 
