@@ -88,26 +88,26 @@ This section of the course will extend the previous sections to more complicated
 ## Assignments and Evaluation
 Progress in this course will be evaluated through homework, exams, hands-on activities, and a final project.
 
-### Homework
-You will be assigned regular homework problems. Homework will not be scored directly. Instead you will have two opportunities for reflection and feedback. 
+### Exercises
+You will be assigned regular exercise problems. These will not be scored directly. Instead you will have two opportunities for reflection and feedback. 
 
-In the first you will be asked to discuss your approach to and progress on homework which is not yet complete. You will have three minutes to present and two for questions, your discussion should cover:
+In the first you will be asked to discuss your approach to and progress on an exercise which is not yet complete. You will have three minutes to present and two for questions, your discussion should cover:
 * what do you think the key features of the problem are
 * a brief sketch of how you might solve it (don't solve! you only have three minutes)
 * what parts do you think might be tricky
-You will be expected to engage with other students discussion in a constructive manner. Ask them or the class questions! Gently suggest something if you think they are mistaken!
+You will be expected to engage with other students discussion in a constructive manner. Ask them or the class questions! Gently suggest something if you think they are mistaken! If you are presenting and aren't sure about something, use this to get feedback from the class on an idea!
 
-The second opportunity will occur after the homework is due. You will evaluate your solution against a key and a rubric. Indicate what you got wrong and discuss why. This works best if you write on your original solution with a different color. You will turn in the corrected solution.
+The second opportunity will occur after the exercise is due. You will evaluate your solution against a key and a rubric. Indicate what you got wrong and discuss why. This works best if you write on your original solution with a different color. You will turn in the corrected solution.
 
-My perspective on homework is that it exists to:
+My perspective on these exercises are that they exist to:
 * give you a low stakes opportunity to practice
 * identify conceptual or practical weaknesses in your understanding
 * provide feedback on your learning to you and to me
 
-To this end, your homework will be evaluated on how you are engaging with these objectives, rather than on your solutions themselves.
+To this end, your exercises will be evaluated on how you are engaging with these objectives, rather than on your solutions themselves.
 
 ### Exams
-The course will feature two exams, each will occupy one class period. Exams will be open to any static content (written and electronic references permissible, but no live communication). Unless you arrange with me prior you can only access electronic content via laptop (no cell phones). References should be cited during any development or explanation, and problems where you reference external content should have a statement at the end describing the information or insight gained from each reference. References should be in the following format:
+The course will feature one exam, which will occupy a class period. The exam will be open to any static content (written and electronic references permissible, but no live communication). Unless you arrange with me prior you can only access electronic content via laptop (no cell phones). References should be cited during any development or explanation, and problems where you reference external content should have a statement at the end describing the information or insight gained from each reference. References should be in the following example format:
 
 (when deriving the information filter equations) [1][2]
 
@@ -133,7 +133,7 @@ Hands-on activities will require you to apply course content to several robotics
 * Analysis of the possible failure modes of your estimator
 * Analysis of the performance of the estimator
 
-Reports should cover no more than three total pages including figures and equations but excluding references (aim for no more than 1.5--2 pages of written content). Any resources used in designing or implementing solutions to the activity problems should be documented. 
+Reports should cover no more than three total pages including figures and equations but excluding references (aim for no more than ~2 pages of written content). Any resources used in designing or implementing solutions to the activity problems should be documented. 
 
 You should also turn in commented source code. Comments should not describe what a line of code does, but rather why you are doing something. For example, this is an example of a good comment:
 ```
@@ -172,9 +172,16 @@ z = z_sample * R_earth;
 Note that you are still responsible for your solution being correct and working. For example -- before I put this example in I did some basic checks (plotting the output and checking the statistics against a uniform lat-lon sample to make sure they were different). 
 
 ### Project
-You will also complete a self-identified project requiring application of the concepts and practice of state estimation. You are encouraged to draw the project content from your personal or professional interests. You should discuss a project topic with me and we will agree on an appropriate scope and deliverable. Projects may work with real or simulated systems but require:
+You will also complete a self-identified project requiring application of the concepts and practice of state estimation. You are encouraged to draw the project content from your personal or professional interests. You should discuss a project topic with me and we will agree on an appropriate scope and deliverable. Projects may work with real or simulated systems but your system must:
+
+* have at least one state which is not directly observed
+* have at least one state which is dynamic
+* have a nonlinearity in the dynamics and / or observations
+
+At the conclusion of the semester you will turn in a final project report no more than 10 total pages (excluding references). Source code should be provided and follow the same documentation requirements as the activities. Your report should cover:
 
 * Identification of inputs, states, and sensors
+* Analysis of the probabilistic nature of your system
 * Derivation of a system model
 * Analysis of observability
 * Discussion of an appropriate estimation approach
@@ -182,8 +189,6 @@ You will also complete a self-identified project requiring application of the co
 * Test results
 * Analysis of results
 * Discussion of the limitations of the approach adopted and failure modes of the estimator
-
-At the conclusion of the semester you will turn in a final project report no more than 10 total pages (excluding references). Source code should be provided and follow the same documentation requirements as the activities.
 
 You will be provided suggested milestones. I very strongly recommend you satisfy them. This is a major undertaking and will take you several weeks to complete satisfactorily
 
@@ -197,44 +202,49 @@ Final grades will be assigned with a weighted combination of component grades ac
 |-------|--------|
 | Homework Progress Discussion | 0.1 |
 | Participation in Discussion | 0.05 |
-| Exams | 0.3 |
-| Activities | 0.3 |
+| Exam | 0.15 |
+| Activities | 0.45 |
 | Project | 0.25 |
+
+Note: there is a chance we drop activity 3. If that happens its weight will be distributed equally among the other elements.
+
+Note: the project comprehensively covers all elements of the course. To this end, your course grade will be the greater of your cumulative score and project score.
 
 ## Preliminary Schedule 
 
-| Day | HW | Lecture | Relevant Text |
+| Day | Due | Lecture | Relevant Text |
 |-------|--------|--------|--------| 
-| W, 2022-01-19 | | Introduction | |
-| M, 2022-01-24 | | Probability Distributions | Barfoot 2.1<br> Bishop 1.2.1, 1.2.2 |
-| M, 2022-01-31 | 1 | Expectation and Covariance |
-| W, 2022-02-02 | | Combining Measurements | 
-| M, 2022-02-07 | 2 | Linear Least Squares |
-| W, 2022-02-09 | | Exam 1 |
-| M, 2022-02-14 | 3 | Nonlinear Least Squares, Activity 1 Introduction |
-| W, 2022-02-16 | | Priors |
-| M, 2022-02-21 | 4 | Sequential Estimation |
-| W, 2022-02-23 | | State Space Representation |
-| M, 2022-02-28 | 5 | [Activity 1]({{ site.baseurl }}{% link _pages/activities/1.md %}) |
-| W, 2022-03-02 | | Transforming Distributions |
-| M, 2022-03-07 | 6 | Observability |
-| W, 2022-03-09 | | Kalman Filter |
-| Spring Break | | |
-| M, 2022-03-21 | 7 | Review, Activity 2 Introduction |
-| W, 2022-03-23 | | Exam 2 |
-| M, 2022-03-28 | 8 | Consistency and Initialization of KF, Parameter Estimation |
-| W, 2022-03-30 | | [Activity 2]({{ site.baseurl }}{% link _pages/activities/2.md %}) (last day of class before drop day) |
-| M, 2022-04-04 | 9 | Non-gaussian noise, Steady-state filter, information filter |
-| W, 2022-04-06 | | Extended Kalman filter, Activity 3 introduction, project introduction |
-| M, 2022-04-11 | 10 | Unscented Kalman filter |
-| W, 2022-04-13 | | [Activity 3]({{ site.baseurl }}{% link _pages/activities/3.md %}) |
-| M, 2022-04-18 | 11 | Particle filter, Activity 4 introduction, project defined |
-| W, 2022-04-20 | | Importance sampling, weighting |
-| M, 2022-04-25 | 12 | Ensemble Kalman filter |
-| W, 2022-04-27 | | [Activity 4]({{ site.baseurl }}{% link _pages/activities/4.md %}) |
-| M, 2022-05-02 | 13 | Gaussian process regression, density estimation |
-| W, 2022-05-04 | | reserved |
-
+| M, 2022-08-22 | | Introduction | |
+| W, 2022-08-24 | | Probability Distributions | Barfoot 2.1<br> Bishop 1.2.1, 1.2.2 |
+| M, 2022-08-29 | E1 | Joint, Marginal, Independent Distributions | |
+| W, 2022-08-31 | | Moments, Expectation and Covariance | |
+| W, 2022-09-07 | E2 | The Gaussian PDF, Conditioning | |
+| M, 2022-09-12 | | Conditioning on Observations | 
+| W, 2022-09-14 | E3 | |
+| M, 2022-09-19 | | Exam |
+| W, 2022-09-21 | | Linear-Gaussian Maximum Likelihood |
+| M, 2022-09-26 | | Linear-Gaussian Maximum Likelihood Continued |
+| W, 2022-09-28 | E4 | Nonlinear ML, Activity 1 Introduction |
+| M, 2022-10-03 | | Nonlinear ML, Continued, Failures |
+| W, 2022-10-05 | E5 | Priors |
+| M, 2022-10-10 | | Sequential Estimation |
+| W, 2022-10-12 | E6 | State Space Representation, Project Intro |
+| M, 2022-10-17 | | [Activity 1]({{ site.baseurl }}{% link _pages/activities/1.md %}) |
+| W, 2022-10-19 | | Transforming Distributions |
+| M, 2022-10-24 | A1 | Observability |
+| W, 2022-10-26 | E7 | Kalman Filter, Activity 2 Introduction |
+| M, 2022-10-31 | | Kalman Filter, continued |
+| W, 2022-11-02 | E8 | Initialization of KF |
+| M, 2022-11-07 | | [Activity 2]({{ site.baseurl }}{% link _pages/activities/2.md %}) |
+| W, 2022-11-09 | | Filter Consistancy |
+| M, 2022-11-14 | A2 | Steady-state filter |
+| W, 2022-11-16 | E9 | Extended Kalman filter, Activity 3 introduction,  |
+| M, 2022-11-21 | | Extended Kalman filter |
+| W, 2022-11-23 | E10 | EKF divergence |
+| M, 2022-11-28 | | [Activity 3]({{ site.baseurl }}{% link _pages/activities/3.md %}) |
+| W, 2022-11-30 | | |
+| M, 2022-12-05 | A3 | |
+| F, 2022-12-09 | Project | |
 
 ## Course Policies
 
