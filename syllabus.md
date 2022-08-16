@@ -35,7 +35,7 @@ At the conclusion of this course you will be able to:
 ### Course Prerequisites
 This course has no formal prerequisites but a basic knowledge of MATLAB programming, differential equations, and linear algebra is important. You should be comfortable writing MATLAB functions that implement simple equations. You should also be familiar with linear algebra concepts including matrix multiplication, inversion, and rank. 
 
-A good refresher on matlab would be to run through [http://shiplab.hials.org/script/ppt/MATLAB%20Practice%20-%2060%20Exercises.pdf](these exercises), we'll use most of the concepts in there at some point in the course. Pay special attention to matrix operations, functions, and the difference between matrix and element multiplication.
+A good refresher on matlab would be to run through [these exercises](http://shiplab.hials.org/script/ppt/MATLAB%20Practice%20-%2060%20Exercises.pdf), we'll use most of the concepts in there at some point in the course. Pay special attention to matrix operations, functions, and the difference between matrix and element multiplication.
 
 ### Meeting Times:
 Class will meet from 1:30 to 2:50 pm Monday and Wednesday in room 1.0204 in the Chemistry and Computer Science Building.
