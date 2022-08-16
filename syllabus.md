@@ -205,35 +205,38 @@ Final grades will be assigned with a weighted combination of component grades ac
 
 | Day | HW | Lecture | Relevant Text |
 |-------|--------|--------|--------| 
-| W, 2022-01-19 | | Introduction | |
-| M, 2022-01-24 | | Probability Distributions | Barfoot 2.1<br> Bishop 1.2.1, 1.2.2 |
-| M, 2022-01-31 | 1 | Expectation and Covariance |
-| W, 2022-02-02 | | Combining Measurements | 
-| M, 2022-02-07 | 2 | Linear Least Squares |
-| W, 2022-02-09 | | Exam 1 |
-| M, 2022-02-14 | 3 | Nonlinear Least Squares, Activity 1 Introduction |
-| W, 2022-02-16 | | Priors |
-| M, 2022-02-21 | 4 | Sequential Estimation |
-| W, 2022-02-23 | | State Space Representation |
-| M, 2022-02-28 | 5 | [Activity 1]({{ site.baseurl }}{% link _pages/activities/1.md %}) |
-| W, 2022-03-02 | | Transforming Distributions |
-| M, 2022-03-07 | 6 | Observability |
-| W, 2022-03-09 | | Kalman Filter |
-| Spring Break | | |
-| M, 2022-03-21 | 7 | Review, Activity 2 Introduction |
-| W, 2022-03-23 | | Exam 2 |
-| M, 2022-03-28 | 8 | Consistency and Initialization of KF, Parameter Estimation |
-| W, 2022-03-30 | | [Activity 2]({{ site.baseurl }}{% link _pages/activities/2.md %}) (last day of class before drop day) |
-| M, 2022-04-04 | 9 | Non-gaussian noise, Steady-state filter, information filter |
-| W, 2022-04-06 | | Extended Kalman filter, Activity 3 introduction, project introduction |
-| M, 2022-04-11 | 10 | Unscented Kalman filter |
-| W, 2022-04-13 | | [Activity 3]({{ site.baseurl }}{% link _pages/activities/3.md %}) |
-| M, 2022-04-18 | 11 | Particle filter, Activity 4 introduction, project defined |
-| W, 2022-04-20 | | Importance sampling, weighting |
-| M, 2022-04-25 | 12 | Ensemble Kalman filter |
-| W, 2022-04-27 | | [Activity 4]({{ site.baseurl }}{% link _pages/activities/4.md %}) |
-| M, 2022-05-02 | 13 | Gaussian process regression, density estimation |
-| W, 2022-05-04 | | reserved |
+| M, 2022-08-22 | | Introduction | |
+| W, 2022-08-24 | | Probability Distributions | Barfoot 2.1<br> Bishop 1.2.1, 1.2.2 |
+| M, 2022-08-29 | E1 | Joint, Marginal, Independent Distributions | |
+| W, 2022-08-31 | | Moments, Expectation and Covariance | |
+| M, 2022-09-05 | | Labor Day, No Class | |
+| W, 2022-09-07 | E2 | The Gaussian PDF, Conditioning | |
+| M, 2022-09-12 | | Conditioning on Observations | 
+| W, 2022-09-14 | E3 | |
+| M, 2022-09-19 | | Exam |
+| W, 2022-09-21 | | Linear-Gaussian Maximum Likelihood |
+| M, 2022-09-26 | | Linear-Gaussian Maximum Likelihood Continued |
+| W, 2022-09-28 | E4 | Nonlinear ML, Activity 1 Introduction |
+| M, 2022-10-03 | | Nonlinear ML, Continued, Failures |
+| W, 2022-10-05 | E5 | Priors |
+| M, 2022-10-10 | | Sequential Estimation |
+| W, 2022-10-12 | E6 | State Space Representation, Project Intro |
+| M, 2022-10-17 | | [Activity 1]({{ site.baseurl }}{% link _pages/activities/1.md %}) |
+| W, 2022-10-19 | | Transforming Distributions |
+| M, 2022-10-24 | A1 | Observability |
+| W, 2022-10-26 | E7 | Kalman Filter, Activity 2 Introduction, last class before drop day |
+| M, 2022-10-31 | | Kalman Filter, continued |
+| W, 2022-11-02 | E8 | Initialization of KF |
+| M, 2022-11-07 | | [Activity 2]({{ site.baseurl }}{% link _pages/activities/2.md %}) |
+| W, 2022-11-09 | | Filter Consistancy |
+| M, 2022-11-14 | A2 | Steady-state filter |
+| W, 2022-11-16 | E9 | Extended Kalman filter, Activity 3 introduction,  |
+| M, 2022-11-21 | | Extended Kalman filter |
+| W, 2022-11-23 | E10 | EKF divergence |
+| M, 2022-11-28 | | [Activity 3]({{ site.baseurl }}{% link _pages/activities/3.md %}) |
+| W, 2022-11-30 | | |
+| M, 2022-12-05 | A3 | |
+| F, 2022-12-09 | Project | |
 
 
 ## Course Policies
