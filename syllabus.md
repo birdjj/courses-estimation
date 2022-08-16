@@ -216,7 +216,7 @@ Note: the project comprehensively covers all elements of the course. To this end
 |-------|--------|--------|--------| 
 | M, 2022-08-22 | | Introduction | |
 | W, 2022-08-24 | | Probability Distributions | Barfoot 2.1<br> Bishop 1.2.1, 1.2.2 |
-| M, 2022-08-29 | E1 | Joint, Marginal, Independent Distributions | |
+| M, 2022-08-29 | E1 | Joint & Marginal distributions, Random Variables, Independence | |
 | W, 2022-08-31 | | Moments, Expectation and Covariance | |
 | M, 2022-09-05 | | Labor Day, No Class | |
 | W, 2022-09-07 | E2 | The Gaussian PDF, Conditioning | |
