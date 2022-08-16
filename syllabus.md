@@ -250,12 +250,11 @@ Note: the project comprehensively covers all elements of the course. To this end
 ## Course Policies
 
 ### Technology Requirements
-Homework, activities, and projects may require computer software programming. You will be provided with MATLAB / Simulink templates for the activities. MATLAB / Simulink software can be obtained through the following link:
-https://www.utep.edu/technologysupport/ServiceCatalog/SOFTWARE_PAGES/soft_matlab.html
+Homework, activities, and projects may require computer software programming. You will be provided with MATLAB / Simulink templates for the activities. MATLAB / Simulink software can be obtained through [this link](https://www.utep.edu/technologysupport/ServiceCatalog/SOFTWARE_PAGES/soft_matlab.html)
 
 You will have to install some additional libraries to complete the activities.
 
-If you do not have access to a laptop, you can borrow one from [https://www.utep.edu/technologysupport/TSCenter/TSC_EQ_LaptopsTablets.html](the library at this link).
+If you do not have access to a laptop, you can [borrow one from from the library](https://www.utep.edu/technologysupport/TSCenter/TSC_EQ_LaptopsTablets.html)
 
 Activity and project reports should be submitted as zip files contining a PDF report and a "software" folder through the blackboard system.
 
@@ -273,7 +272,7 @@ You are expected to adhere to university guidance on COVID 19 precautions availa
 https://www.utep.edu/resuming-campus-operations/
 Guidance and policy with respect to COVID may change throughout the semester.
 
-If you have tested positive for COVID 19 or have reason to suspect you may have COVID 19 (e.g. because of symptoms or close contact with an individual who has COVID 19) you are expected to stay home as directed by [https://www.cdc.gov/coronavirus/2019-ncov/your-health/quarantine-isolation.html](CDC guidelines). Contact me and we will arrange appropriate accomodations. 
+If you have tested positive for COVID 19 or have reason to suspect you may have COVID 19 (e.g. because of symptoms or close contact with an individual who has COVID 19) you are expected to stay home as directed by [CDC Guidelines](https://www.cdc.gov/coronavirus/2019-ncov/your-health/quarantine-isolation.html). Contact me and we will arrange appropriate accomodations. 
 
 Students who are considered high risk according to CDC guidelines and/or those who live with individuals who are considered high risk may contact Center for Accommodations and Support Services (CASS) to discuss temporary accommodations for on-campus courses and activities.
 
