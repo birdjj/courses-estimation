@@ -16,8 +16,8 @@ Office: Engineering Building A-115\
 Instructor email: jjbird@utep.edu\
 Instructor phone: 915.747.8406\
 Office Hours:\
-Mondays virtually 10:30--12:00\
-Wednesdays in-person 15:00--16:30
+Mondays 10:00--11:00\
+Monday / Wednesday 15:00--16:30
 
 ### Course Description
 State estimation is concerned with determining the internal states of a system by combining sensor measurements. Estimation is fundamental to many mobile robotics, aerospace, and process control systems. In this course we will study basic probability and system theory underlying estimation, techniques to determine if a state can be estimated from available observations, and state estimation algorithms for linear and nonlinear systems.
@@ -200,11 +200,12 @@ Final grades will be assigned with a weighted combination of component grades ac
 
 | Deliverable | Weight |
 |-------|--------|
-| Homework Progress Discussion | 0.1 |
+| Exercise Completion and Evaluation | 0.1 |
+| Exercise Progress Discussion | 0.1 |
 | Participation in Discussion | 0.05 |
 | Exam | 0.15 |
-| Activities | 0.45 |
-| Project | 0.25 |
+| Activities | 0.4 |
+| Project | 0.2 |
 
 Note: there is a chance we drop activity 3. If that happens its weight will be distributed equally among the other elements.
 
