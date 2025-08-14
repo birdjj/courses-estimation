@@ -32,9 +32,9 @@ At the conclusion of this course you will be able to:
 * Identify failure modes and weaknesses of different estimators 
 
 ### Course Prerequisites
-This course has no formal prerequisites but a basic knowledge of MATLAB programming, differential equations, and linear algebra is important. You should be comfortable writing MATLAB functions that implement simple equations. You should also be familiar with linear algebra concepts including matrix multiplication, inversion, and rank. 
+This course has no formal prerequisites but a basic knowledge of programming, differential equations, and linear algebra is important. You should be comfortable writing MATLAB or python functions that implement simple equations. You should also be familiar with linear algebra concepts including matrix multiplication and inversion. 
 
-A good refresher on matlab would be to run through [these exercises](http://shiplab.hials.org/script/ppt/MATLAB%20Practice%20-%2060%20Exercises.pdf), we'll use most of the concepts in there at some point in the course. Pay special attention to matrix operations, functions, and the difference between matrix and element multiplication.
+A good refresher on your programming skills would be to run through [these exercises](http://shiplab.hials.org/script/ppt/MATLAB%20Practice%20-%2060%20Exercises.pdf) in the language of your choice, we'll use most of the concepts in there at some point in the course. Pay special attention to matrix operations, functions, and the difference between matrix and element multiplication. The exercises are written for MATLAB but can be completed in python as well. We will discussion as a class what language to baseline around early in the class.
 
 ### Meeting Times:
 Class will meet from 4:30 to 5:50 pm Monday and Wednesday in Liberal Arts Building room 210
