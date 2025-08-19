@@ -197,11 +197,9 @@ Final grades will be assigned with a weighted combination of component grades ac
 | Day | Due | Lecture | Relevant Text |
 |-------|--------|--------|--------| 
 |2025-08-25 |  | Introduction |  |
-|2025-08-27 |  | Probability Distributions | Barfoot, 2.1.1
-Simon, 2.1 |
+|2025-08-27 |  | Probability Distributions | Barfoot, 2.1.1; Simon, 2.1 |
 |2025-09-01 |  | Labor Day |  |
-|2025-09-03 | E1 | Joint, Marginal, and Independent Distributions | Barfoot, 2.1.5-2.1.6
-Simon, 2.2, 2.4 |
+|2025-09-03 | E1 | Joint, Marginal, and Independent Distributions | Barfoot, 2.1.5-2.1.6; Simon, 2.2, 2.4 |
 |2025-09-08 |  | Distributions and Random Variables |  |
 |2025-09-10 | E2 | Moments, Expectation and Covariance | Barfoot, 2.1.3-2.1.5
 Simon, 2.2 |
