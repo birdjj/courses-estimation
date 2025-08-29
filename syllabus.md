@@ -91,20 +91,22 @@ Progress in this course will be evaluated through homework, exams, hands-on acti
 ### Exercises
 You will be assigned regular exercise problems. These will not be scored directly. Instead you will have two opportunities for reflection and feedback. 
 
-In the first you will be asked to discuss your approach to and progress on an exercise which is not yet complete. You will have three minutes to present and two for questions, your discussion should cover:
+#### In Class Discussion
+In the first you will be asked to discuss in class your approach to and progress on an exercise which is not yet complete. You will have three minutes to present and two for questions, your discussion should cover:
 * what do you think the key features of the problem are
 * a brief sketch of how you might solve it (don't solve! you only have three minutes)
 * what parts do you think might be tricky
 You will be expected to engage with other students discussion in a constructive manner. Ask them or the class questions! Gently suggest something if you think they are mistaken! If you are presenting and aren't sure about something, use this to get feedback from the class on an idea!
 
-The second opportunity will occur after the exercise is due. You will evaluate your solution against a key and a rubric. Indicate what you got wrong and discuss why. This works best if you write on your original solution with a different color. You will turn in the corrected solution.
+#### Self Evaluation
+The second opportunity will occur after the exercise is due. You will turn in your completed work at the due date and then evaluate your solution against a key and a rubric. Indicate what you got wrong and discuss why. This works best if you write on your original solution with a different color. You will also turn in the evaluated solution.
 
 My perspective on these exercises are that they exist to:
 * give you a low stakes opportunity to practice
 * identify conceptual or practical weaknesses in your understanding
 * provide feedback on your learning to you and to me
 
-To this end, your exercises will be evaluated on how you are engaging with these objectives, rather than on your solutions themselves.
+To this end, your exercises will be evaluated on how you are engaging with these objectives, rather than on your solutions themselves. 
 
 ### Exams
 The course will feature one exam, which will occupy a class period.
