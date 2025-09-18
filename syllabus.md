@@ -207,8 +207,8 @@ Final grades will be assigned with a weighted combination of component grades ac
 |2025-09-15 |  | The Gaussian PDF, Conditioning | Barfoot, 2.2.1, 2.2.3 |
 |2025-09-17 | E3 | Conditioning on Observations | Barfoot, 2.2.3 |
 |2025-09-22 |  | Reserved |  |
-|2025-09-24 |  | Exam |  |
-|2025-09-29 |  | Linear-Gaussian Maximum Likelihood | Simon, 3.1. 3.2; Barfoot, 3.1-3.1.2 |
+|2025-09-24 |  | Linear-Gaussian Maximum Likelihood | Simon, 3.1. 3.2; Barfoot, 3.1-3.1.2 |
+|2025-09-29 |  | Exam |  |
 |2025-10-01 | E4 | Linear-Gaussian Maximum Likelihood Continued |  |
 |2025-10-06 |  | Nonlinear ML, Activity 1 Introduction | Barfoot 4.3.3 |
 |2025-10-08 |  | Nonlinear ML, Continued |  |
