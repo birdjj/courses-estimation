@@ -212,10 +212,10 @@ Final grades will be assigned with a weighted combination of component grades ac
 |2025-10-01 | E4 | Linear-Gaussian Maximum Likelihood Continued |  |
 |2025-10-06 |  | Nonlinear ML, Activity 1 Introduction | Barfoot 4.3.3 |
 |2025-10-08 |  | Nonlinear ML, Continued |  |
-|2025-10-13 | E5 | Priors |  |
-|2025-10-15 |  | Activity 1 |  |
-|2025-10-20 |  | Sequential Estimation |  |
-|2025-10-22 | A1 | State Space Representation, Project Intro |  |
+|2025-10-13 | E5 | Priors | Simon 3.3, Barfoot 3.2-3.3.1 |
+|2025-10-15 |  | Sequential Estimation |  |
+|2025-10-20 | A1 | State Space Representation, Project Intro |  |
+|2025-10-22 |  | Activity 1 |  |
 |2025-10-27 | E6 | Transforming Distributions |  |
 |2025-10-29 |  | Kalman Filter, Activity 2 Introduction |  |
 |2025-11-03 |  | Kalman Filter, continued |  |
