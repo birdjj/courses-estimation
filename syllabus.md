@@ -214,10 +214,10 @@ Final grades will be assigned with a weighted combination of component grades ac
 |2025-10-08 |  | Nonlinear ML, Continued |  |
 |2025-10-13 | E5 | Priors | Simon 3.3, Barfoot 3.2-3.3.1 |
 |2025-10-15 |  | Sequential Estimation |  |
-|2025-10-20 | A1 | State Space Representation, Project Intro |  |
+|2025-10-20 | A1 | State Space Representation, Project Intro | Simon 1.2-1.5 |
 |2025-10-22 |  | Activity 1 |  |
-|2025-10-27 | E6 | Transforming Distributions |  |
-|2025-10-29 |  | Kalman Filter, Activity 2 Introduction |  |
+|2025-10-27 | E6 | Transforming Distributions | Simon 2.3-2.4 |
+|2025-10-29 |  | Kalman Filter, Activity 2 Introduction | Simon 5-5.2 |
 |2025-11-03 |  | Kalman Filter, continued |  |
 |2025-11-05 | E7 | Initialization of KF |  |
 |2025-11-10 |  | Reserved |  |
